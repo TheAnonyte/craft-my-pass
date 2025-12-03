@@ -1,73 +1,73 @@
-# Welcome to your Lovable project
+# 🌐 Craft My Pass — Modern Password Generator
 
-## Project info
+A fast, clean, and minimal password generator that helps you create secure passwords instantly.  
+Customize your password length, symbols, numbers, and more — all wrapped in a dark-neon UI.
 
-**URL**: https://lovable.dev/projects/b88e83cc-1e43-49ac-80d5-71d80208fd87
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=Generate+Strong+Passwords+Instantly;Secure+%2F+Customizable+%2F+Fast;Built+by+The+Anonyte" alt="Typing SVG"/>
+</p>
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ⚡ Features  
+- 🔐 **Instant password generation**  
+- 🎛️ **Customizable password length**  
+- 🔤 **Letters / Numbers / Symbols toggle**  
+- ⚡ **Fast & responsive UI**  
+- 🟣 **Dark-neon themed interface**  
+- 📋 **One-click copy to clipboard**  
+- 📱 **Mobile + desktop friendly**
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b88e83cc-1e43-49ac-80d5-71d80208fd87) and start prompting.
+## 🚀 Live Demo  
+👉 **https://craftmypass.vercel.app/**
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🖼️ Screenshots
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+> Replace these placeholders with real UI screenshots  
+> (or send me your screenshots and I will embed them)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+<p align="center">
+  <img src="https://via.placeholder.com/800x400/0A0A0A/00F0FF?text=Craft+My+Pass+-+Screenshot+1" width="80%" />
+  <br><br>
+  <img src="https://via.placeholder.com/800x400/0A0A0A/00F0FF?text=Craft+My+Pass+-+Screenshot+2" width="80%" />
+</p>
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠️ Tech Stack  
+- **HTML**  
+- **CSS**  
+- **JavaScript**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🧪 Usage  
+1. Choose your **password length**  
+2. Enable/disable **symbols**, **numbers**, **letters**  
+3. Click **Generate Password**  
+4. Hit **Copy** to copy instantly  
+5. Use password securely anywhere 🔒
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🧩 Future Enhancements  
+- Password **strength meter**  
+- Light/Dark theme toggle  
+- Exclude similar characters  
+- Generate multiple passwords  
+- Neon UI animations & transitions  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 👤 Author  
+**Ankit Kumar — The Anonyte**  
+🔗 LinkedIn: https://linkedin.com/in/theanonyte  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📜 License — MIT  
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b88e83cc-1e43-49ac-80d5-71d80208fd87) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
