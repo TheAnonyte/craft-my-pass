@@ -56,8 +56,7 @@ Customize your password length, symbols, numbers, and more — all wrapped in a 
 - Password **strength meter**  
 - Light/Dark theme toggle  
 - Exclude similar characters  
-- Generate multiple passwords  
-- Neon UI animations & transitions  
+- Generate multiple passwords   
 
 ---
 
