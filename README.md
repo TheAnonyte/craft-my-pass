@@ -27,13 +27,11 @@ Customize your password length, symbols, numbers, and more — all wrapped in a 
 
 ## 🖼️ Screenshots
 
-> Replace these placeholders with real UI screenshots  
-> (or send me your screenshots and I will embed them)
+
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/0A0A0A/00F0FF?text=Craft+My+Pass+-+Screenshot+1" width="80%" />
-  <br><br>
-  <img src="https://via.placeholder.com/800x400/0A0A0A/00F0FF?text=Craft+My+Pass+-+Screenshot+2" width="80%" />
+  <img src="https://iili.io/fzm64Yx.md.png" width="80%" />
+ 
 </p>
 
 ---
